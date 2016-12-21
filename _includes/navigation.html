@@ -1,0 +1,25 @@
+<!-- start navigation -->
+<nav class="main-navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="navbar-header">
+                        <span class="nav-toggle-button collapsed" data-toggle="collapse" data-target="#main-menu">
+                            <span class="sr-only">Toggle navigation</span>
+                            <i class="fa fa-bars"></i>
+                        </span>
+                </div>
+                <div class="collapse navbar-collapse" id="main-menu">
+                    <ul class="menu">
+                        <li class="{% if page.url == '/' %}nav-current{% endif %}" role="presentation"><a href="/u1001/">HOME</a></li>
+                        <!--<li class="{% if page.url == '/' %}nav-current{% endif %}" role="presentation"><a href="/">NEWS</a></li>
+                        <li class="{% if page.url == '/tags/' %}nav-current{% endif %}" role="presentation"><a href="/tags/">PROJECTS</a></li>-->
+                        <li class="{% if page.url == '/people/' %}nav-current{% endif %}" role="presentation"><a href="/u1001/people/">PEOPLE</a></li>
+                         <li class="{% if page.url == '/publications/' %}nav-current{% endif %}" role="presentation"><a href="/u1001/publications/">PUBLICATIONS</a></li>
+                        <li class="{% if page.url == '/aboutus/' %}nav-current{% endif %}" role="presentation"><a href="/u1001/aboutus/">ABOUT US</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav><!-- end navigation -->

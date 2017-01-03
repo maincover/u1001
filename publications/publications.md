@@ -5,7 +5,10 @@ permalink: /publications/
 ---
 
 ## 2016
-Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001.  Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics.
+[Ma16]: http://www.cell.com/cell-reports/pdf/S2211-1247(16)31205-0.pdf "Mathieu"
+
+Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001. _[Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics.][Ma16]_
+
 
 Dimitriu T, Misevic D, Lotton C, Brown SP, Lindner AB, Taddei F. Indirect Fitness Benefits Enable the Spread of Host Genes Promoting Costly Transfer of Beneficial Plasmids. PLoS Biol. (2016 );14(6):e1002478. doi: 10.1371/journal.pbio.1002478.
 

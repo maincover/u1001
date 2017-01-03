@@ -5,23 +5,31 @@ permalink: /publications/
 ---
 
 ## 2016
-Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001.  [Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics.](https://www.google.fr)
+Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001.  Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics.
 
 Dimitriu T, Misevic D, Lotton C, Brown SP, Lindner AB, Taddei F. Indirect Fitness Benefits Enable the Spread of Host Genes Promoting Costly Transfer of Beneficial Plasmids. PLoS Biol. (2016 );14(6):e1002478. doi: 10.1371/journal.pbio.1002478.
 
 Claude Saint-Ruf, Steve Crussard, Christine Franceschi, Sylvain Orenga, Jasmine Ouattara, Mahendrasingh Ramjeet, Jérémy Surre, Ivan Matic. Antibiotic Susceptibility Testing of the Gram-Negative Bacteria Based on Flow Cytometry. Front Microbiol. (2016) ; 7: 1121. doi: 10.3389/fmicb.2016.01121
+
+Radman, M. Protein damage, radiation sensitivity and aging. DNA Repair (2016) 44:186-192
+Radman, M. Mismatch repair earns Nobel Prize in Chemistry 2015 to Paul Modrich for a biochemical tour de force. DNA Repair (2016) 37:A22-8
+
+Elez, M., Robert, L., and Matic, I. Method for detecting and studying genome-wide mutations in single living cells in real-time. In « Series Methods in Molecular Biology: Antibiotic Resistance Protocols, Third Edition » (S.H. Gillespie, ed.), Springer, (2016)  In Press
 
 Aude G. Bernheim, Vincent K. Libis, Ariel B. Lindner, Edwin H. Wintermute . Phage-mediated Delivery of Targeted sRNA Constructs to Knock Down Gene Expression in E. coli . J Vis Exp. (2016) ; (109): 53618. doi: 10.3791/53618
 
 Lefebvre C, Largeau C, Michelet X, Fourrage C, Maniere X, Matic I, Legouis R, Culetto E. The ESCRT-II proteins are involved in shaping the sarcoplasmic reticulum in C. elegans. J Cell Sci. (2016 );129(7):1490-9. doi: 10.1242/jcs.178467.
 
 
+
 ## 2015
 Tatiana Dimitriu, Dusan Misevic, Ariel B Lindner, François Taddei. Mobile genetic elements are involved in bacterial sociality. Mob Genet Elements. (2015) 5(1): 7–11. doi: 10.1080/2159256X.2015.1006110
 
+Rodriguez-Beltran J, Tourret J, Tenaillon O, Lopez E, Bourdeleir E, Costas C, Matic I, denamur E, Blasquez J. High recombinant frequency in extraintestinal pathogenic escherichia coli strains. Mol Biol Evol (2015)
+
 Misevic D., Frenoy A., Lindner AB, Taddei F. Shape matters: life cycle of cooperative patches promotes cooperation in bulky populations. Evolution (2015) Jan 31. doi: 10.1111/evo.12616
 
-Rodriguez-Beltran J, Tourret J, Tenaillon O, Lopez E, Bourdeleir E, Costas C, Matic I, denamur E, Blasquez J. High recombinant frequency in extraintestinal pathogenic escherichia coli strains. Mol Biol Evol (2015)
+Izard J, Gomez Balderas CD, Ropers D, Lacour S, Song X, Yang Y, Lindner AB, Geiselmann J, de Jong H. A synthetic growth switch based on controlled expression of RNA polymerase. Mol Syst Biol. (2015) 11:840.
 
 Dimitriu T, Misevic D, Lindner AB, Taddei F. Mobile genetic elements are involved in bacterial socialty. Mobile Genetic Elements 04 feb 2015.
 

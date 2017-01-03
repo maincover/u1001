@@ -39,3 +39,5 @@ Faculté de médecine
 24 rue du Faubourg Saint Jacques  
 75014 Paris  
 Tel : +33 1 44 41 25 51
+
+![Venue](/images/image-adress.png)

@@ -40,4 +40,4 @@ Faculté de médecine
 75014 Paris  
 Tel : +33 1 44 41 25 51
 
-![Venue](/images/image-adress.png)
+![Venue](../images/adress-u1001.png)

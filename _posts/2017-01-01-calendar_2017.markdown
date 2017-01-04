@@ -1,0 +1,42 @@
+---
+layout:     post
+author: Ivan Matic
+title:      Calendar & News
+date:       2017-01-02 08:13:00 +0100
+categories: notes
+tags: calendar
+[//]: # (mediaImage: images/calendar_icon.png)
+excerpt: Inserm u1001
+---
+
+
+# LAB Meeting Schedule 
+# Update : January 2, 2017 
+# Monday 10h-12h
+
+|Date|Name|
+|:------:|:---:|
+|January 9, 2017|	Jake|
+|January 16, 2017|	Ana|
+|January 23, 2017|	Xiaohu|
+|January 30, 2017|	Yifan|
+|February 6, 2017|	Guest seminar Luisa Laureti|
+|February 13, 2017|	Jeremy|
+|February 20, 2017|	Nadine|
+|February 27, 2017|	Zoran|
+|March 6, 2017|	Sébastien|
+|March 13, 2017|	Wei-Lin| 
+|March 20, 2017|	Jason|
+|March 27, 2017|	Alvaro|
+|April 3, 2017|	Guo|
+|April 10, 2017|	Guy|
+
+# From Chantal
+Hi all,
+
+The "Préfecture de Police" will come for a security visit on the 26th of January afternoon  (14:00):   see email below.
+
+No big experiment during this  time because of possible cut of power and fire exercise. 
+
+Chantal
+

@@ -21,26 +21,3 @@ To apply for position in the lab, the standard procedure is:
 1. An initial contact by e-mail to describe your interests and motivations
 2. To send recommendation letters (from your supervisor or someone that worked with you and at least one outsider who knows you personally and scientifically)
 3. To come and spend a couple of days with us in Paris (travel and hotel would be reimbursed) where you would give a seminar and exchange ideas with lab members. This could enable us to decide what type of project might be worked on together.
-
-Contact with us
-==============
-
-* ivan.matic@inserm.fr
-
-* miroslav.radman@inserm.fr
-
-* ariel.lindner@inserm.fr
-
-Address
-==========
-Inserm U1001  
-Université Paris Descartes Sorbonne Paris Cité  
-Faculté de médecine  
-24 rue du Faubourg Saint Jacques  
-75014 Paris  
-Tel : +33 1 44 41 25 51
-
-
-<a href="https://www.google.fr/maps/place/24+Rue+du+Faubourg+Saint-Jacques,+75014+Paris/@48.837507,2.3367083,17z/data=!3m1!4b1!4m5!3m4!1s0x47e671c0eb25bd1b:0x1fea6b28029c47d2!8m2!3d48.837507!4d2.338897?hl=fr">
-  <img src="../images/adress-u1001.png" alt="HTML tutorial" >
-</a>

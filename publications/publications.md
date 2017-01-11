@@ -7,10 +7,15 @@ permalink: /publications/
 ## 2016
 [Ma16]: http://www.cell.com/cell-reports/pdf/S2211-1247(16)31205-0.pdf
 
-Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. _[Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics.][Ma16]_
- Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001. 
+Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. _[Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics][Ma16]_. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001. 
 
-Dimitriu T, Misevic D, Lotton C, Brown SP, Lindner AB, Taddei F. Indirect Fitness Benefits Enable the Spread of Host Genes Promoting Costly Transfer of Beneficial Plasmids. PLoS Biol. (2016 );14(6):e1002478. doi: 10.1371/journal.pbio.1002478.
+[Yang16]: http://www.sciencedirect.com/science/article/pii/S0580951716300034 
+
+Yang, Y., Song, X., and Lindner, A. B. (2016). _[Time-lapse microscopy and image analysis of Escherichia coli cells in mother machines][Yang16]_, volume 43 of Methods in Microbiology, chapter 2, pages 49-68. Elsevier.
+
+[Dim16]:http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002478
+
+Dimitriu T, Misevic D, Lotton C, Brown SP, Lindner AB, Taddei F. _[Indirect Fitness Benefits Enable the Spread of Host Genes Promoting Costly Transfer of Beneficial Plasmids][Dim16]_. PLoS Biol. (2016 );14(6):e1002478. doi: 10.1371/journal.pbio.1002478.
 
 Claude Saint-Ruf, Steve Crussard, Christine Franceschi, Sylvain Orenga, Jasmine Ouattara, Mahendrasingh Ramjeet, Jérémy Surre, Ivan Matic. Antibiotic Susceptibility Testing of the Gram-Negative Bacteria Based on Flow Cytometry. Front Microbiol. (2016) ; 7: 1121. doi: 10.3389/fmicb.2016.01121
 
@@ -30,7 +35,9 @@ Tatiana Dimitriu, Dusan Misevic, Ariel B Lindner, François Taddei. Mobile genet
 
 Rodriguez-Beltran J, Tourret J, Tenaillon O, Lopez E, Bourdeleir E, Costas C, Matic I, denamur E, Blasquez J. High recombinant frequency in extraintestinal pathogenic escherichia coli strains. Mol Biol Evol (2015)
 
-Misevic D., Frenoy A., Lindner AB, Taddei F. Shape matters: life cycle of cooperative patches promotes cooperation in bulky populations. Evolution (2015) Jan 31. doi: 10.1111/evo.12616
+[Misevic2015]: http://onlinelibrary.wiley.com/wol1/doi/10.1111/evo.12616/full
+
+Misevic D., Frenoy A., Lindner AB, Taddei F. _[Shape matters: life cycle of cooperative patches promotes cooperation in bulky populations][Misevic2015]_. Evolution (2015) Jan 31. doi: 10.1111/evo.12616
 
 Izard J, Gomez Balderas CD, Ropers D, Lacour S, Song X, Yang Y, Lindner AB, Geiselmann J, de Jong H. A synthetic growth switch based on controlled expression of RNA polymerase. Mol Syst Biol. (2015) 11:840.
 
@@ -60,6 +67,10 @@ Frenoy A., Taddei F, Misevic D. Genetic architecture promotes the evolution and 
 
 Coquel AS, Jacob JP, Primet M, Demarez A, Dimiccoli M, Julou T Moisan L., Lindner AB, Berry H. Localization of protein aggregation in Escherichia coli is governed by diffusion and nucleoid macromolecular crowding effect. Plos Comput Biol, 2013 9(4): e1003038
 
+[Misevic2013]: https://mitpress.mit.edu/sites/default/files/titles/content/ecal13/ch030.html
+
+Misevic, D., Frénoy, A., Taddei, F. 2013. _[In silico evolution of transferable genetic elements][Misevic2013]_. Pp. 200-207 in P. Liò, O. Miglino, G. Nicosia, S. Nolfi and M. Pavone, eds. Advances in Artificial Life, ECAL 2013: Proceedings of the twelfth European Conference on the Synthesis and Simulation of Living Systems. MIT Press, Cambridge, Massachusetts.
+
 
 ## 2012
 
@@ -70,6 +81,17 @@ Ni M, Decrulle AL, Fontaine F, Demarez A, Taddei F, Lindner AB. Pre-Disposition 
 Elez M, Radman M, Matic I. Stoichiometry of MutS and MutL at unrepaired mismatches in vivo suggests a mechanism of repair. Nucleic Acids Res. 2012 May; 40(9): 3929-38.
 
 Krisko A, Leroy M, Radman M, Meselson M. Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers. Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2354-7.
+
+[Misevic2012]: https://mitpress.mit.edu/sites/default/files/titles/content/alife13/ch030.html
+
+Misevic, D., Frénoy, A., Parsons, D. P., Taddei, F. 2012. _[Effects of public good properties on the evolution of cooperation][Misevic2012]_. Pp. 218-225 in Adami, C., Bryson, D. M., Ofria, C., Pennock, R. T. eds. Artificial Life 13: Proceedings of the Thirteenth International Conference on the Simulation and Synthesis of Living Systems. MIT Press, Cambridge, Massachusetts. 
+
+[Frenoy2012]: https://mitpress.mit.edu/sites/default/files/titles/content/alife13/ch008.html
+
+Frénoy, A., Misevic, D., Taddei, F. 2012. _[Robustness and evolvability of cooperation][Frenoy2012]_. Pp. 53-58 in Adami, C., Bryson, D. M., Ofria, C., Pennock, R. T. eds. Artificial Life 13: Proceedings of the Thirteenth International Conference on the Simulation and Synthesis of Living Systems. MIT Press, Cambridge, Massachusetts. 
+
+
+
 
 ## 2011
 
@@ -238,237 +260,5 @@ Dukan, S., et al., Protein oxidation in response to increased transcriptional or
 
 Denamur, E., et al., Evolutionary implications of the frequent horizontal transfer of mismatch repair genes. Cell, 2000. 103(5): p. 711-21.
 
-## 1996-1999
 
-Vulic, M., R.E. Lenski, and M. Radman, Mutation, recombination, and incipient speciation of bacteria in the laboratory. Proc Natl Acad Sci U S A, 1999. 96(13): p. 7348-51.
 
-Tenaillon, O., et al., Mutators, population size, adaptive landscape and the adaptation of asexual populations of bacteria. Genetics, 1999. 152(2): p. 485-93.
-
-Radman, M., I. Matic, and F. Taddei, Evolution of evolvability. Ann N Y Acad Sci, 1999. 870: p. 146-55.
-
-Radman, M., Enzymes of evolutionary change. Nature, 1999. 401(6756): p. 866-7, 869.
-
-de Wind, N., et al., HNPCC-like cancer predisposition in mice through simultaneous loss of Msh3 and Msh6 mismatch-repair protein functions. Nat Genet, 1999. 23(3): p. 359-62.
-
-Stambuk, S. and M. Radman, Mechanism and control of interspecies recombination in Escherichia coli. I. Mismatch repair, methylation, recombination and replication functions. Genetics, 1998. 150(2): p. 533-42.
-
-Roush, A.A., et al., Deletion of the Saccharomyces cerevisiae gene RAD30 encoding an Escherichia coli DinB homolog confers UV radiation sensitivity and altered mutability. Mol Gen Genet, 1998. 257(6): p. 686-92.
-
-Radman, M., DNA replication: one strand may be more equal. Proc Natl Acad Sci U S A, 1998. 95(17): p. 9718-9.
-
-Westmoreland, J., et al., Highly mismatched molecules resembling recombination intermediates efficiently transform mismatch repair proficient Escherichia coli. Genetics, 1997. 145(1): p. 29-38.
-
-Vulic, M., et al., Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria. Proc Natl Acad Sci U S A, 1997. 94(18): p. 9763-7.
-
-Taddei, F., et al., Role of mutator alleles in adaptive evolution. Nature, 1997. 387(6634): p. 700-2.
-
-Taddei, F., et al., Counteraction by MutT protein of transcriptional errors caused by oxidative damage. Science, 1997. 278(5335): p. 128-30.
-
-Taddei, F., et al., Genetic variability and adaptation to stress. Exs, 1997. 83: p. 271-90.
-
-Taddei, F., et al., Genetic analysis of mutagenesis in aging Escherichia coli colonies. Mol Gen Genet, 1997. 256(3): p. 277-81.
-
-Taddei, F., et al., To be a mutator, or how pathogenic and commensal bacteria can evolve rapidly. Trends Microbiol, 1997. 5(11): p. 427-8; discussion 428-9.
-
-Matic, I., et al., Highly variable mutation rates in commensal and pathogenic Escherichia coli. Science, 1997. 277(5333): p. 1833-4.
-
-Varlet, I., et al., Mismatch repair in Xenopus egg extracts: DNA strand breaks act as signals rather than excision points. Proc Natl Acad Sci U S A, 1996. 93(19): p. 10156-61.
-
-Matic, I., F. Taddei, and M. Radman, Genetic barriers among bacteria. Trends Microbiol, 1996. 4(2): p. 69-72.
-
-Lehmann, A.R., et al., Workshop on processing of DNA damage. Mutat Res, 1996. 364(3): p. 245-70.
-
-Back to the top of the page	
-
-## 1990-1995
-
-Wagner, R., P. Debbie, and M. Radman, Mutation detection using immobilized mismatch binding protein (MutS). Nucleic Acids Res, 1995. 23(19): p. 3944-8.
-
-Taddei, F., M. Radman, and J.A. Halliday, Mutation rate of the F episome. Science, 1995. 269(5222): p. 289-90.
-
-Taddei, F., I. Matic, and M. Radman, cAMP-dependent SOS induction and mutagenesis in resting bacterial populations. Proc Natl Acad Sci U S A, 1995. 92(25): p. 11736-40.
-
-Radman, M., et al., Editing DNA replication and recombination by mismatch repair: from bacterial genetics to mechanisms of predisposition to cancer in humans. Philos Trans R Soc Lond B Biol Sci, 1995. 347(1319): p. 97-103.
-
-Matic, I., C. Rayssiguier, and M. Radman, Interspecies gene exchange in bacteria: the role of SOS and mismatch repair systems in evolution of species. Cell, 1995. 80(3): p. 507-15.
-
-de Wind, N., et al., Inactivation of the mouse Msh2 gene results in mismatch repair deficiency, methylation tolerance, hyperrecombination, and predisposition to cancer. Cell, 1995. 82(2): p. 321-30.
-
-Worth, L., Jr., et al., Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc Natl Acad Sci U S A, 1994. 91(8): p. 3238-41.
-
-Varlet, I., et al., Cloning and expression of the Xenopus and mouse Msh2 DNA mismatch repair genes. Nucleic Acids Res, 1994. 22(25): p. 5723-8.
-
-Matic, I., M. Radman, and C. Rayssiguier, Structure of recombinants from conjugational crosses between Escherichia coli donor and mismatch-repair deficient Salmonella typhimurium recipients. Genetics, 1994. 136(1): p. 17-26.
-
-Radman, M. and R. Wagner, DNA mismatch repair systems: mechanisms and applications in biotechnology. Biotechnol Genet Eng Rev, 1993. 11: p. 357-66.
-
-Radman, M. and R. Wagner, Mismatch recognition in chromosomal interactions and speciation. Chromosoma, 1993. 102(6): p. 369-73.
-
-Radman, M. and R. Wagner, Carcinogenesis. Missing mismatch repair. Nature, 1993. 366(6457): p. 722.
-
-Kricker, M.C., J.W. Drake, and M. Radman, Duplication-targeted DNA methylation and mutagenesis in the evolution of eukaryotic chromosomes. Proc Natl Acad Sci U S A, 1992. 89(3): p. 1075-9.
-
-Zgaga, Z., et al., Mismatch-stimulated plasmid integration in yeast. Curr Genet, 1991. 19(4): p. 329-32.
-
-Rayssiguier, C., C. Dohet, and M. Radman, Interspecific recombination between Escherichia coli and Salmonella typhimurium occurs by the RecABCD pathway. Biochimie, 1991. 73(4): p. 371-4.
-
-Radman, M., Avoidance of inter-repeat recombination by sequence divergence and a mechanism of neutral evolution. Biochimie, 1991. 73(4): p. 357-61.
-
-Petit, M.A., et al., Control of large chromosomal duplications in Escherichia coli by the mismatch repair system. Genetics, 1991. 129(2): p. 327-32.
-
-Matic, I., V. Bacun-Druzina, and M. Alacevic, Repair of cytotoxic lesions induced by N-methyl-N'-nitro-N-nitrosoguanidine in Salmonella typhimurium and Escherichia coli. Mutat Res, 1991. 264(4): p. 201-6.
-
-Deschavanne, P. and M. Radman, Counterselection of GATC sequences in enterobacteriophages by the components of the methyl-directed mismatch repair system. J Mol Evol, 1991. 33(2): p. 125-32.
-
-Bacun-Druzina, V., et al., The influence of the nucleotide excision-repair system on mutagenesis in Salmonella typhimurium LT2 after exposure to low doses of monofunctional alkylating agents. Mutat Res, 1991. 264(4): p. 207-12.
-
-Varlet, I., M. Radman, and P. Brooks, DNA mismatch repair in Xenopus egg extracts: repair efficiency and DNA repair synthesis for all single base-pair mismatches. Proc Natl Acad Sci U S A, 1990. 87(20): p. 7883-7.
-
-Quinto, I., L. Tenenbaum, and M. Radman, Genotoxic potency of monofunctional alkylating agents in E. coli: comparison with carcinogenic potency in rodents. Mutat Res, 1990. 228(2): p. 177-85.
-
-Petranovic, M., et al., Some restriction endonucleases tolerate single mismatches of the pyrimidine.purine type. Nucleic Acids Res, 1990. 18(8): p. 2159-62.
-
-
-## 1980-1989
-
-
-Schaaper, R.M. and M. Radman, The extreme mutator effect of Escherichia coli mutD5 results from saturation of mismatch repair by excessive DNA replication errors. Embo J, 1989. 8(11): p. 3511-6.
-
-Rayssiguier, C., D.S. Thaler, and M. Radman, The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature, 1989. 342(6248): p. 396-401.
-
-Radman, M., Mismatch repair and the fidelity of genetic recombination. Genome, 1989. 31(1): p. 68-73.
-
-Dzidic, S. and M. Radman, Genetic requirements for hyper-recombination by very short patch mismatch repair: involvement of Escherichia coli DNA polymerase I. Mol Gen Genet, 1989. 217(2-3): p. 254-6.
-
-Damagnez, V., M.P. Doutriaux, and M. Radman, Saturation of mismatch repair in the mutD5 mutator strain of Escherichia coli. J Bacteriol, 1989. 171(8): p. 4494-7.
-
-Brooks, P., et al., Mismatch repair involving localized DNA synthesis in extracts of Xenopus eggs. Proc Natl Acad Sci U S A, 1989. 86(12): p. 4425-9.
-
-Bates, H., et al., Spontaneous and UV-induced mutations in Escherichia coli K-12 strains with altered or absent DNA polymerase I. J Bacteriol, 1989. 171(5): p. 2480-4.
-
-Radman, M. and R. Wagner, The high fidelity of DNA duplication. Sci Am, 1988. 259(2): p. 40-6.
-
-Bonner, C.A., et al., Purification and characterization of an inducible Escherichia coli DNA polymerase capable of insertion and bypass at abasic lesions in DNA. J Biol Chem, 1988. 263(35): p. 18946-52.
-
-Quinto, I. and M. Radman, Carcinogenic potency in rodents versus genotoxic potency in E. coli: a correlation analysis for bifunctional alkylating agents. Mutat Res, 1987. 181(2): p. 235-42.
-
-Langle-Rouault, F., G. Maenhaut-Michel, and M. Radman, GATC sequences, DNA nicks and the MutH function in Escherichia coli mismatch repair. Embo J, 1987. 6(4): p. 1121-7.
-
-Jones, M., R. Wagner, and M. Radman, Mismatch repair of deaminated 5-methyl-cytosine. J Mol Biol, 1987. 194(1): p. 155-9.
-
-Jones, M., R. Wagner, and M. Radman, Repair of a mismatch is influenced by the base composition of the surrounding nucleotide sequence. Genetics, 1987. 115(4): p. 605-10.
-
-Jones, M., R. Wagner, and M. Radman, Mismatch repair and recombination in E. coli. Cell, 1987. 50(4): p. 621-6.
-
-Dohet, C., et al., Large non-homology in heteroduplex DNA is processed differently than single base pair mismatches. Mol Gen Genet, 1987. 206(1): p. 181-4.
-
-Radman, M. and R. Wagner, Mismatch repair in Escherichia coli. Annu Rev Genet, 1986. 20: p. 523-38.
-
-Radman, M., DNA damage, DNA repair and induced mutagenesis: some enzymological and structural considerations. Basic Life Sci, 1986. 38: p. 365-75.
-
-Lecomte, P., O.P. Doubleday, and M. Radman, Evidence for an intermediate in DNA synthesis involving pyrophosphate exchange. A possible role in fidelity. J Mol Biol, 1986. 189(4): p. 643-52.
-
-Laengle-Rouault, F., G. Maenhaut-Michel, and M. Radman, GATC sequence and mismatch repair in Escherichia coli. Embo J, 1986. 5(8): p. 2009-13.
-
-Fazakerley, G.V., et al., Structures of mismatched base pairs in DNA and their recognition by the Escherichia coli mismatch repair system. Embo J, 1986. 5(13): p. 3697-703.
-
-Doutriaux, M.P., R. Wagner, and M. Radman, Mismatch-stimulated killing. Proc Natl Acad Sci U S A, 1986. 83(8): p. 2576-8.
-
-Dohet, C., R. Wagner, and M. Radman, Methyl-directed repair of frameshift mutations in heteroduplex DNA. Proc Natl Acad Sci U S A, 1986. 83(10): p. 3395-7.
-
-Toman, Z., et al., A system for detection of genetic and epigenetic alterations in Escherichia coli induced by DNA-damaging agents. J Mol Biol, 1985. 186(1): p. 97-105.
-
-Radman, M., et al., Processing of mispaired and unpaired bases in heteroduplex DNA in E. coli. Biochimie, 1985. 67(7-8): p. 745-52.
-
-Brotcorne-Lannoye, A., G. Maenhaut-Michel, and M. Radman, Involvement of DNA polymerase III in UV-induced mutagenesis of bacteriophage lambda. Mol Gen Genet, 1985. 199(1): p. 64-9.
-
-Barbin, A., et al., recA-independent mutagenicity induced by chloroethylene oxide in E. coli. Mutat Res, 1985. 152(2-3): p. 157-9.
-
-Wagner, R., et al., Involvement of Escherichia coli mismatch repair in DNA replication and recombination. Cold Spring Harb Symp Quant Biol, 1984. 49: p. 611-5.
-
-Radman, M. and R. Wagner, Effects of DNA methylation on mismatch repair, mutagenesis, and recombination in Escherichia coli. Curr Top Microbiol Immunol, 1984. 108: p. 23-8.
-
-Caillet-Fauquet, P., G. Maenhaut-Michel, and M. Radman, SOS mutator effect in E. coli mutants deficient in mismatch correction. Embo J, 1984. 3(4): p. 707-12.
-
-Doubleday, O.P., et al., Replication and mutagenesis of irradiated single-strand phage DNA. Basic Life Sci, 1983. 23: p. 115-34.
-
-Radman, M., P. Jeggo, and R. Wagner, Chromosomal rearrangement and carcinogenesis. Mutat Res, 1982. 98(3): p. 249-64.
-
-Bourguignon-Van Horen, F., et al., Conservation and diversification of genes by mismatch correction and SOS induction. Biochimie, 1982. 64(8-9): p. 559-64.
-
-Brandenburger, A., et al., Radiation-induced base substitution mutagenesis in single-stranded DNA phage M13. Nature, 1981. 294(5837): p. 180-2.
-
-Barbin, A., et al., Studies on the miscoding properties of 1,N6-ethenoadenine and 3,N4-ethenocytosine, DNA reaction products of vinyl chloride metabolites, during in vitro DNA synthesis. Nucleic Acids Res, 1981. 9(2): p. 375-87.
-
-Toman, Z., C. Dambly, and M. Radman, Induction of a stable, heritable epigenetic change by mutagenic carcinogens: a new test system. IARC Sci Publ, 1980(27): p. 243-55.
-
-Radman, M. and A.R. Kinsella, Chromosomal events in carcinogenic initiation and promotion: implications for carcinogenicity testing and cancer prevention strategies. IARC Sci Publ, 1980(27): p. 75-90.
-
-Radman, M., Is there SOS induction in mammalian cells? Photochem Photobiol, 1980. 32(6): p. 823-30.
-
-Kinsella, A.R. and M. Radman, Inhibition of carcinogen-induced chromosomal aberrations by an anticarcinogenic protease inhibitor. Proc Natl Acad Sci U S A, 1980. 77(6): p. 3544-7.
-
-Glickman, B.W. and M. Radman, Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc Natl Acad Sci U S A, 1980. 77(2): p. 1063-7.
-
-Davis, A., et al., Mutagenesis assays with bacteria. IARC Monogr Eval Carcinog Risk Chem Hum Suppl, 1980(2 Suppl): p. 85-106.
-
-Back to the top of the page	
-
-## BEFORE 1980
-
-
-Radman, M., et al., Replicational fidelity: mechanisms of mutation avoidance and mutation fixation. Cold Spring Harb Symp Quant Biol, 1979. 43 Pt 2: p. 937-46.
-
-Villani, G., et al., Replication of chemically modified DNA. Biochimie, 1978. 60(10): p. 1145-50.
-
-Villani, G., S. Boiteux, and M. Radman, Mechanism of ultraviolet-induced mutagenesis: extent and fidelity of in vitro DNA synthesis on irradiated templates. Proc Natl Acad Sci U S A, 1978. 75(7): p. 3037-41.
-
-Radman, M., S. Spadari, and G. Villani, Mutagenesis and cell transformation by ultraviolet irradiation: many hypotheses for few results. Natl Cancer Inst Monogr, 1978(50): p. 121-7.
-
-Kinsella, A.R. and M. Radman, Tumor promoter induces sister chromatid exchanges: relevance to mechanisms of carcinogenesis. Proc Natl Acad Sci U S A, 1978. 75(12): p. 6149-53.
-
-Glickman, B., P. van den Elsen, and M. Radman, Induced mutagenesis in dam- mutants of Escherichia coli: a role for 6-methyladenine residues in mutation avoidance. Mol Gen Genet, 1978. 163(3): p. 307-12.
-
-Radman, M., Inducible pathways in deoxyribonucleic acid repair, mutagenesis and carcinogenesis. Biochem Soc Trans, 1977. 5(4): p. 1194-9.
-
-Caillet-Fauquet, P., M. Defais, and M. Radman, Molecular mechanisms of induced mutagenesis. Replication in vivo of bacteriophage phiX174 single-stranded, ultraviolet light-irradiated DNA in intact and irradiated host cells. J Mol Biol, 1977. 117(1): p. 95-110.
-
-Radman, M., An endonuclease from Escherichia coli that introduces single polynucleotide chain scissions in ultraviolet-irradiated DNA. J Biol Chem, 1976. 251(5): p. 1438-45.
-
-Defais, M., et al., Induction kinetics of mutagenic DNA repair activity in E. coli following ultraviolet irradiation. Mol Gen Genet, 1976. 148(2): p. 125-30.
-
-Braun, A.G., M. Radman, and L. Grossman, Enzymatic repair of DNA: SITES OF HYDROLYSIS BY THE Escherichia coli endonuclease specific for pyrimidine dimers (correndonuclease II). Biochemistry, 1976. 15(18): p. 4116-20.
-
-Wagner, R.E., Jr. and M. Radman, A mechanism for initiation of genetic recombination. Proc Natl Acad Sci U S A, 1975. 72(9): p. 3619-22.
-
-Radman, M., Endonuclease III: an endonuclease from Escherichia coli that introduces single polynucleotide chain scissions in ultraviolet-irradiated DNA. Basic Life Sci, 1975. 5A: p. 197-200.
-
-Radman, M., SOS repair hypothesis: phenomenology of an inducible DNA repair which is accompanied by mutagenesis. Basic Life Sci, 1975. 5A: p. 355-67.
-
-Devoret, R., et al., Recovery of phage lambda from ultraviolet damage. Basic Life Sci, 1975. 5A: p. 155-71.
-
-George, J., R. Devoret, and M. Radman, Indirect ultraviolet-reactivation of phage lambda. Proc Natl Acad Sci U S A, 1974. 71(1): p. 144-7.
-
-Devoret, R., et al., Repair mechanisms involved in the recovery of phage lambda from ultraviolet damage. An Acad Bras Cienc, 1973. 45 SUPPL: p. 193-201.
-
-Radman, M. and R. Devoret, UV-reactivation of bacteriophage lambda in excision repair-deficient hosts: independence of red functions and attachment regions. Virology, 1971. 43(2): p. 504-6.
-
-Radman, M., Target size of DNA in ultraviolet irradiation. Nat New Biol, 1971. 230(17): p. 277-8.
-
-Fornili, S.L., L. Cordone, and M. Radman, Phenomenological theory of repair kinetics of ultraviolet irradiated Lambda phage. Virology, 1971. 43(2): p. 422-6.
-
-Defais, M., et al., Ultraviolet reactivation and ultraviolet mutagenesis of lambda in different genetic systems. Virology, 1971. 43(2): p. 495-503.
-
-Radman, M., et al., Complementary action of recombination and excision in the repair of ultraviolet irradiation damage to DNA. J Mol Biol, 1970. 49(1): p. 203-12.
-
-Radman, M. and M. Errera, Enhanced efficiency of excision repair of non-replicated UV-damaged E. coli DNA. Mutat Res, 1970. 9(6): p. 553-60.
-
-Cordone, L. and M. Radman, Pyrimidine dimer-induced enhancement of recombination among lambda bacteriophages. Virology, 1970. 41(1): p. 166-9.
-
-Radman, M., A. Roller, and M. Errera, Protection and host cell repair of irradiated lambda phage. I. Irradiation of normal phage with ultraviolet light. Mol Gen Genet, 1969. 104(2): p. 142-6.
-
-Radman, M., A. Roller, and M. Errera, Protection and host cell repair of irradiated lambda phage. II. Irradiation of 5-bromouracil-substituted phage with near visible light. Mol Gen Genet, 1969. 104(2): p. 147-51.
-
-Radman, M., A. Roller, and M. Errera, Protection and host cell repair of irradiated lambda phage. 3. Ultraviolet irradiation of 5-bromouracil-substituted phage. Mol Gen Genet, 1969. 104(2): p. 152-6.
-
-Radman, M., D. Krsmanovic-Simic, and M. Errera, The repair of radioinduced pyrimidine dimers in lambda bacteriophage DNA: participation of Escherichia coli uvr and rec genes and lambda red gene. Arch Int Physiol Biochim, 1969. 77(2): p. 397-9.

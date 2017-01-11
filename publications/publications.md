@@ -49,7 +49,9 @@ Manière X, Krisko A, Pellay FX, Di Meglio JM, Hersen P, Matic I., High transcri
 
 Saint-Ruf C., Garfa-Traoré M., Collin V., Cordier C., Franceschi C., Matic I., Massive diversification in aging colonies of Escherichia coli. J Bacteriol. (2014); 196(17): 3059-73.
 
-Dimitriu T., Lotton C., Bénard-Capelle J., Misevic D., Brown SP, Lindner AB, Taddei F. Genetic information transfer promotes cooperation in bacteria. PNAS. 2014; 111(30): 11103-8.
+[Dim14]:http://www.dule.fr/pdf/Dimitriu2014.pdf
+
+Dimitriu T., Lotton C., Bénard-Capelle J., Misevic D., Brown SP, Lindner AB, Taddei F. _[Genetic information transfer promotes cooperation in bacteria][Dim14]_. PNAS. 2014; 111(30): 11103-8.
 
 Chen P, Xu l, Liu J, Hol FJ, Keymer JE, Taddei F, Han D, Lindner AB. Nanoscale probing the kinetics of oriented bacetrial cell growth using atomoic force microscopy. Small 2014; 10(15): 3018-25
 

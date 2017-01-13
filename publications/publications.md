@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 ## 2016
-[Ma16]: http://www.cell.com/cell-reports/pdf/S2211-1247(16)31205-0.pdf
+[AM16]: http://www.cell.com/cell-reports/pdf/S2211-1247(16)31205-0.pdf
 
-Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. _[Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics][Ma16]_. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001. 
+Mathieu A, Fleurier S, Frénoy A, Dairou J, Bredeche MF, Sanchez-Vizuete P, Song X, Matic I. _[Discovery and Function of a General Core Hormetic Stress Response in E. coli Induced by Sublethal Concentrations of Antibiotics][AM16]_. Cell Rep. (2016 );17(1):46-57.  doi: 10.1016/j.celrep.2016.09.001. 
 
 [Yang16]: http://www.sciencedirect.com/science/article/pii/S0580951716300034 
 
@@ -17,10 +17,17 @@ Yang, Y., Song, X., and Lindner, A. B. (2016). _[Time-lapse microscopy and image
 
 Dimitriu T, Misevic D, Lotton C, Brown SP, Lindner AB, Taddei F. _[Indirect Fitness Benefits Enable the Spread of Host Genes Promoting Costly Transfer of Beneficial Plasmids][Dim16]_. PLoS Biol. (2016 );14(6):e1002478. doi: 10.1371/journal.pbio.1002478.
 
-Claude Saint-Ruf, Steve Crussard, Christine Franceschi, Sylvain Orenga, Jasmine Ouattara, Mahendrasingh Ramjeet, Jérémy Surre, Ivan Matic. Antibiotic Susceptibility Testing of the Gram-Negative Bacteria Based on Flow Cytometry. Front Microbiol. (2016) ; 7: 1121. doi: 10.3389/fmicb.2016.01121
+[CSR16]:http://journal.frontiersin.org/article/10.3389/fmicb.2016.01121/full
 
-Radman, M. Protein damage, radiation sensitivity and aging. DNA Repair (2016) 44:186-192
-Radman, M. Mismatch repair earns Nobel Prize in Chemistry 2015 to Paul Modrich for a biochemical tour de force. DNA Repair (2016) 37:A22-8
+Claude Saint-Ruf, Steve Crussard, Christine Franceschi, Sylvain Orenga, Jasmine Ouattara, Mahendrasingh Ramjeet, Jérémy Surre, Ivan Matic._[Antibiotic Susceptibility Testing of the Gram-Negative Bacteria Based on Flow Cytometry][CSR16]_. Front Microbiol. (2016) ; 7: 1121. doi: 10.3389/fmicb.2016.01121
+
+[MR161]:http://www.sciencedirect.com/science/article/pii/S1568786416301057
+
+Radman, M._[Protein damage, radiation sensitivity and aging][MR161]_. DNA Repair (2016) 44:186-192
+
+[MR162]:http://www.sciencedirect.com/science/article/pii/S1568786415002542
+
+Radman, M._[Mismatch repair earns Nobel Prize in Chemistry 2015 to Paul Modrich for a biochemical tour de force][MR162]_. DNA Repair (2016) 37:A22-8
 
 Elez, M., Robert, L., and Matic, I. Method for detecting and studying genome-wide mutations in single living cells in real-time. In « Series Methods in Molecular Biology: Antibiotic Resistance Protocols, Third Edition » (S.H. Gillespie, ed.), Springer, (2016)  In Press
 
@@ -45,9 +52,13 @@ Dimitriu T, Misevic D, Lindner AB, Taddei F. Mobile genetic elements are involve
 
 ## 2014
 
-Manière X, Krisko A, Pellay FX, Di Meglio JM, Hersen P, Matic I., High transcript levels of heat-shock genes are associated with shorter lifespan of Caenorabditis elegans. Exp gerontol (2014) ; 60:12-7. doi: 10.1016/j.exger.2014.09.005.
+[XM14]:http://www.sciencedirect.com/science/article/pii/S0531556514002551
 
-Saint-Ruf C., Garfa-Traoré M., Collin V., Cordier C., Franceschi C., Matic I., Massive diversification in aging colonies of Escherichia coli. J Bacteriol. (2014); 196(17): 3059-73.
+Manière X, Krisko A, Pellay FX, Di Meglio JM, Hersen P, Matic I._[High transcript levels of heat-shock genes are associated with shorter lifespan of Caenorabditis elegans][XM14]_ Exp gerontol (2014) ; 60:12-7. doi: 10.1016/j.exger.2014.09.005.
+
+[CSR14]:http://jb.asm.org/content/196/17/3059.full
+
+Saint-Ruf C., Garfa-Traoré M., Collin V., Cordier C., Franceschi C., Matic I._[Massive diversification in aging colonies of Escherichia coli][CSR14]_ . J Bacteriol. (2014); 196(17): 3059-73.
 
 [Dim14]:http://www.dule.fr/pdf/Dimitriu2014.pdf
 
@@ -61,9 +72,17 @@ Girod M, Enjalbert Q, Brunet C, Antoine R, Lemoine J, Lukac I, Radman M, Krisko 
 
 ## 2013
 
-Gutierrez, A., Laureti, L., Crussard, S., Abida, H., Rodríguez Rojas, A., Blázquez, J., Baharoglu, Z., Mazel, D., Darfeuille, F., Vogel, J., and Matic, I B-lactam antibiotics promote mutagenesis via RpoS-mediated replication fidelity reduction, Nature Communication, 2013, 4: 1610.
+[AG13]:http://www.nature.com/articles/ncomms2607
 
-Laureti, L., Selva, M., Dairou, J., and Matic, I. Reduction of dNTP levels enhances DNA replication fidelity in vivo. DNA Repair, 2013 Apr 1; 12 (4) :300-5.
+Gutierrez, A., Laureti, L., Crussard, S., Abida, H., Rodríguez Rojas, A., Blázquez, J., Baharoglu, Z., Mazel, D., Darfeuille, F., Vogel, J., and Matic, I._[B-lactam antibiotics promote mutagenesis via RpoS-mediated replication fidelity reduction][AG13]_. Nature Communication, 2013, 4: 1610.
+
+[LL131]:http://www.sciencedirect.com/science/article/pii/S1568786413000402
+
+Laureti, L., Selva, M., Dairou, J., and Matic, I._[Reduction of dNTP levels enhances DNA replication fidelity in vivo][LL131]_. DNA Repair, 2013 Apr 1; 12 (4) :300-5.
+
+[LL132]:http://www.mdpi.com/2079-6382/2/1/100
+
+Laureti, Matic, I, and Gutierrez, A._[Bacterial responses and genome instability induced by subinhibitory concentrations of antibiotics][LL132]_. Antibiotics, (2013) 2 :100-114 
 
 Frenoy A., Taddei F, Misevic D. Genetic architecture promotes the evolution and maintenance of cooperation. Plos Comput Biol, 2013 9(11) e1003339.
 
@@ -73,16 +92,26 @@ Coquel AS, Jacob JP, Primet M, Demarez A, Dimiccoli M, Julou T Moisan L., Lindne
 
 Misevic, D., Frénoy, A., Taddei, F. 2013. _[In silico evolution of transferable genetic elements][Misevic2013]_. Pp. 200-207 in P. Liò, O. Miglino, G. Nicosia, S. Nolfi and M. Pavone, eds. Advances in Artificial Life, ECAL 2013: Proceedings of the twelfth European Conference on the Synthesis and Simulation of Living Systems. MIT Press, Cambridge, Massachusetts.
 
+Matic, I. (2013) Stress-induced mutagenesis in bacteria. In : « Stress-induced mutagenesis», Mittelman D (ed.), pp. 1-19. Springer Science & Business Media New York. 
+
+Matic, I. (2013) DNA Mismatch Repair and Homologous Recombination. In: Lennarz, W.J. and Lane, M.D. (eds.) The Encyclopedia of Biological Chemistry, Vol. 2, pp. 45-50. Waltham, MA: Academic Press. 
+
 
 ## 2012
 
-Leroy, M., Mosser, T., Manière, X., Fernández Alvarez, D., and Matic, I. Pathogen-induced Caenorhabditis elegans developmental plasticity has a hormetic effect on the resistance to biotic and abiotic stresses. BMC Evolutionary Biology. 2012 Sept 21;12:187.
+[ML12]:http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-12-187
+
+Leroy, M., Mosser, T., Manière, X., Fernández Alvarez, D., and Matic, I. _[Pathogen-induced Caenorhabditis elegans developmental plasticity has a hormetic effect on the resistance to biotic and abiotic stresses][ML12]_.  BMC Evolutionary Biology. 2012 Sept 21;12:187.
 
 Ni M, Decrulle AL, Fontaine F, Demarez A, Taddei F, Lindner AB. Pre-Disposition and Epigenetics Govern Variation in Bacterial Survival upon Stress. PLoS Genet. 2012 Dec;8(12):e1003148.
 
-Elez M, Radman M, Matic I. Stoichiometry of MutS and MutL at unrepaired mismatches in vivo suggests a mechanism of repair. Nucleic Acids Res. 2012 May; 40(9): 3929-38.
+[ME12]:http://nar.oxfordjournals.org/content/early/2012/01/11/nar.gkr1298.full
 
-Krisko A, Leroy M, Radman M, Meselson M. Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers. Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2354-7.
+Elez M, Radman M, Matic I. _[Stoichiometry of MutS and MutL at unrepaired mismatches in vivo suggests a mechanism of repair][ME12]_.  Nucleic Acids Res. 2012 May; 40(9): 3929-38.
+
+[AK12]:http://www.pnas.org/content/109/7/2354.abstract?sid=c1e5714a-027a-480b-9961-cf0dc9ed8f4c
+
+Krisko A, Leroy M, Radman M, Meselson M. _[Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers][AK12]_.  Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2354-7.
 
 [Misevic2012]: https://mitpress.mit.edu/sites/default/files/titles/content/alife13/ch030.html
 
@@ -96,16 +125,21 @@ Frénoy, A., Misevic, D., Taddei, F. 2012. _[Robustness and evolvability of coop
 
 
 ## 2011
+[TM11]:http://aem.asm.org/content/77/22/8189.long
 
-Mosser T, Matic I, Leroy M. Bacterium-Induced Internal Egg Hatching Frequency Is Predictive of Life Span in Caenorhabditis elegans Populations. Appl Environ Microbiol. 2011 Nov;77(22):8189-92.
+Mosser T, Matic I, Leroy M._[Bacterium-Induced Internal Egg Hatching Frequency Is Predictive of Life Span in Caenorhabditis elegans Populations][TM11]_. Appl Environ Microbiol. 2011 Nov;77(22):8189-92.
 
 De Paepe M, Gaboriau-Routhiau V, Rainteau D, Rakotobe S, Taddei F, Cerf-Bensussan N.Trade-off between bile resistance and nutritional competence drives Escherichia coli diversification in the mouse gut. PLoS Genet. 2011 Jun;7(6):e1002107.
 
 Slade D, Radman M. Oxidative stress resistance in Deinococcus radiodurans. Microbiol Mol Biol Rev. 2011 Mar;75(1):133-91. Review.
 
-Gutierrez A., Elez M., Clermont O., Denamur E. and Matic I. Escherichia coli YafP protein modulates DNA damaging property of the nitroaromatic compounds. Nucleic Acids Research 2011 ; 39(10):4192-201.
+[AG11]:http://nar.oxfordjournals.org/content/39/10/4192.abstract?sid=d6ab7852-94b2-4f62-8e6f-5d136d43fc85
 
-Manière X, Lebois F, Matic I, Ladoux B, Di Meglio J-M, et al. Running Worms: C. elegans Self-Sorting by Electrotaxis. PLoS ONE 2011; 6(2): e16637.
+Gutierrez A., Elez M., Clermont O., Denamur E. and Matic I._[Escherichia coli YafP protein modulates DNA damaging property of the nitroaromatic compounds][AG11]_. Nucleic Acids Research 2011 ; 39(10):4192-201.
+
+[XM11]:http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016637
+
+Manière X, Lebois F, Matic I, Ladoux B, Di Meglio J-M, et al._[Running Worms: C. elegans Self-Sorting by Electrotaxis][XM11]_. PLoS ONE 2011; 6(2): e16637.
 
 Tesfazgi Mebrhatu M, Wywial E, Ghosh A, Michiels CW, Lindner AB, Taddei F, Bujnicki JM, Van Melderen L, Aertsen A. Evidence for an evolutionary antagonism between Mrr and Type III modification systems.Nucleic Acids Res. 2011 Apr 19.
 
@@ -116,7 +150,8 @@ Delebecque CJ, Lindner AB, Silver PA, Aldaye FA. Organization of Intracellular R
 
 Repar J, Cvjetan S, Slade D, Radman M, Zahradka D, Zahradka K. RecA protein assures fidelity of DNA repair and genome stability in Deinococcus radiodurans. DNA Repair (Amst). 2010 Sep 1.
 
-Diard M, Garry L, Selva M, Mosser T, Denamur E, Matic I. Pathogenicity-associated islands in extraintestinal pathogenic Escherichia coli are fitness elements involved in intestinal colonization. J Bacteriol (2010); 192(19):4885-93.
+[MD10]:http://jb.asm.org/content/192/19/4885.full
+Diard M, Garry L, Selva M, Mosser T, Denamur E, Matic I._[Pathogenicity-associated islands in extraintestinal pathogenic Escherichia coli are fitness elements involved in intestinal colonization][MD10]_. J Bacteriol (2010); 192(19):4885-93.
 
 Levert M, Zamfir O, Clermont O, Bouvet O, Lespinats S, Hipeaux MC, Branger C, Picard B, Saint-Ruf C, Norel F, Balliau T, Zivy M, Le Nagard H, Cruvellier S, Chane-Woon-Ming B, Nilsson S, Gudelj I, Phan K, Ferenci T, Tenaillon O, Denamur E. Molecular and evolutionary bases of within-patient genotypic and phenotypic diversity in Escherichia coli extraintestinal infections. PLoS Pathog. (2010) Sep 30;6(9). pii: e1001125.
 
@@ -124,7 +159,9 @@ Tourret J, Diard M, Garry L, Matic I, Denamur E. Effects of single and multiple 
 
 Krisko A, Smole Z, Debret G, Nikolić N, Radman M. Unstructured hydrophilic sequences in prokaryotic proteomes correlate with dehydration tolerance and host association. J Mol Biol (2010); 402(5):775-82
 
-Elez M. , Murray AW, Bi L-J, Zhang X-E, Matic I , Radman M. Seeing mutations in living cells. Current Biology (2010); 20(16):1432-7
+[ME10]:http://www.cell.com/current-biology/abstract/S0960-9822(10)00860-2
+
+Elez M. , Murray AW, Bi L-J, Zhang X-E, Matic I , Radman M._[Seeing mutations in living cells][ME10]_. Current Biology (2010); 20(16):1432-7
 
 Krisko A, Radman M. Protein damage and death by radiation in Escherichia coli and Deinococcus radiodurans. Proc Natl Acad Sci U S A (2010); 107(32):14373-7.
 
@@ -132,11 +169,15 @@ Wang P., Robert L., Pelletier J., Dang W.L., Taddei F., Wright A., Jun S. Robust
 
 De Paepe M., De Monte S., Robert L., Lindner A., Taddei F, Emergence of variability in isogenic Escherichia coli populations infected by a filamentous virus PLoS ONE (2010); 5(7):e11823.
 
-Baeriswyl S, Diard M, Mosser T, Leroy M, Manière X, Taddei F, Matic I. Modulation of aging profiles in isogenic populations of Caenorhabditis elegans by bacteria causing different extrinsic mortality rates. Biogerontology. (2010) 11: 53-65.
+[SB10]:http://link.springer.com/article/10.1007%2Fs10522-009-9228-0
+
+Baeriswyl S, Diard M, Mosser T, Leroy M, Manière X, Taddei F, Matic I._[Modulation of aging profiles in isogenic populations of Caenorhabditis elegans by bacteria causing different extrinsic mortality rates][SB10]_. Biogerontology. (2010) 11: 53-65.
 
 Robert L, Paul G, Chen Y, Taddei F, Baigl D, Lindner AB. Pre-dispositions and epigenetic inheritance in the Escherichia coli lactose operon bistable switch. Mol Syst Biol. (2010) 6:357.
 
-Saint-Ruf, C., Cordier, C., Mégret, J., and Matic I. Reliable detection of dead microbial cells using fluorescent hydrazines. App. Environ. Microbiol. (2010) 76 : 1674-1678
+[CSR10]:http://aem.asm.org/content/76/5/1674.full
+
+Saint-Ruf, C., Cordier, C., Mégret, J., and Matic I._[Reliable detection of dead microbial cells using fluorescent hydrazines][CSR10]_. App. Environ. Microbiol. (2010) 76 : 1674-1678
 
 Guelfo JR, Rodríguez-Rojas A, Matic I, Blázquez J. A MATE-family efflux pump rescues the Escherichia coli 8-oxoguanine-repair-deficient mutator phenotype and protects against H(2)O(2) killing. PLoS Genet. (2010) 1553-7390(8.88)
 
@@ -149,7 +190,13 @@ Schubert S, Darlu P, Clermont O, Wieser A, Magistro G, Hoffmann C, Weinert K, Te
 
 Nogueira T, Rankin DJ, Touchon M, Taddei F, Brown SP, Rocha EP. Horizontal Gene Transfer of the Secretome Drives the Evolution of Bacterial Cooperation and Virulence. Curr Biol. 2009 Sep 30.
 
+Touchon, M., Hoede, C., Tenaillon, O., Barbe, V., Baeriswyl, S., Bidet, P., Bingen, E., Bonacorsi, S., Bouchier, C., Bouvet, O., Calteau, A., Hélène Chiapello, H., Olivier Clermont, O., Cruveiller, S., Danchin, A., Diard, M., Dossat, C., El Karoui, M., Frapy, E., Garry, L., Ghigo, J.M., Gilles, A.M., Johnson, J., Le Bouguénec, C., Lescat, M., Mangenot, S., Martinez-Jéhanne, V., Matic, I., Nassif, X., Oztas, S., Petit, M.A., Pichon, C., Rouy, Z., Saint Ruf, C., Schneider, D., Vacherie, B., Vallenet, D., Médigue, C., Rocha, E., Denamur E. (2009) Organised genome dynamics in the Escherichia coli species results in highly diverse adaptive paths, PLoS Genetics 5 :e1000344 
+
+Delmas, S., and Matic, I. (2009) Même les bactéries ont une sexualité, In : « Aux origines de sexe » (Gouyon, P.-H. Ed.) Fayard. 
+
 ## 2008
+
+Dos Vultos T, Mestre O, Rauzier J, Golec M, Rastogi N, Rasolofo V, Tonjum T, Sola C, Matic I, Gicquel B. Evolution and Diversity of Clonal Bacteria: The Paradigm of Mycobacterium tuberculosis. PLoS ONE. 2008 3:e1538. 
 
 Martinsohn JT, Radman M, Petit M-A .The lambda Red Proteins Promote Efficient Recombination between Diverged Sequences: Implications for  Bacteriophage Genome Mosaicism , PLoS Genet . 2008 ; 4(5): e1000065. doi:10.1371/ journal.pgen.1000065
 

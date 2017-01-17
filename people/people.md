@@ -3,6 +3,9 @@ layout: page
 title:
 permalink: /people/
 ---
+People
+======
+
 ## Laboratory Director
 
 * [Ivan Matic](mailto:ivan.matic@inserm.fr)

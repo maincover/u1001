@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: People
 permalink: /people/
 ---
-People
-======
 
 ## Laboratory Director
 
@@ -13,6 +11,9 @@ People
 > Affiliated with *CNRS* in **Avoidance and Repair of Biological Damage**
 >
 > Research interest : 
+
+
+## Principal investigator
 
 * [François Taddei](mailto:francois.taddei@inserm.fr)
 
@@ -26,7 +27,6 @@ People
 >
 > Research interest : 
 
-## Principal investigator
 
 ## Professor Emeritus
 
@@ -37,14 +37,14 @@ People
 ## Research Engineer
 * [Xiaohu Song](mailto:xiaohu.song@inserm.fr)
 
-> Affiliated with *INSERM* in **Systems Engineering and Evolution Dynamics**
+> Affiliated with *INSERM* 
 >
 > Research interest : 
 
 ## Study Engineer
 * [Chantal Lotton](mailto:chantal.lotton@inserm.fr)
 
-> Affiliated with *INSERM* in **Systems Engineering and Evolution Dynamics**
+> Affiliated with *Faculté de Médecine Paris Descartes*
 >
 > Research interest : 
 

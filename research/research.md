@@ -18,7 +18,7 @@ This team studies some of the key conceptual questions of biology and evolution,
 3. *__Biological effects of subinhibitory concentrations of antibiotics__*. It is generally believed that clinically relevant antibiotic resistance appears as a consequence of bacterial exposure to concentrations above the minimum inhibitory concentration (MIC) of antibiotics. For this reason, the impact of sub-MICs of antibiotics on bacterial populations has been largely neglected. However, there is growing evidence indicating that sub-MICs of antibiotics may play an important role in the emergence and spread of antibiotic resistance. Furthermore, an emphasis on the therapeutic potential of antibiotics has resulted in a paucity of studies related to the impact that they may have on bacteria other than the evolution of antibiotic resistance. Cells exposed to sub-MICs of antibiotics do not stop growing and are not killed. This suggests that they are able to adjust their gene expression patterns and metabolism to simultaneously respond to the antibiotic-induced stresses and to maintain rapid growth. Our goal is to identify molecular mechanisms underlying these bacterial responses, as well as their impact on evolution of antibiotic resistance.
 
  
-<h1>Team : Systems Engineering and Evolution Dynamics (SEED)</h1>
+<h1>Team: Systems Engineering and Evolution Dynamics (SEED)</h1>
 
  
 The team’s main efforts rely on years of investment in building an intellectual and experimental framework based on interdisciplinary approaches, harnessing physics and computer science and welcoming young researchers from these domains to address key questions in Life Sciences in a quantitative manner using Escherichia coli as the simplest (yet still not fully understood) model organism. 

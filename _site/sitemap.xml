@@ -17,13 +17,16 @@
 <loc>http://localhost:4000/u1001//bk/index-post/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/u1001//bk/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/u1001//home/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/u1001//</loc>
 </url>
 <url>
-<loc>http://localhost:4000/u1001//bk/</loc>
+<loc>http://localhost:4000/u1001//people/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/u1001//people/</loc>

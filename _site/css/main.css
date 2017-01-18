@@ -636,11 +636,11 @@ pre {
       right: 0px;
       bottom: -100px; }
   .main-header .slogan, .main-header .article-title {
-    color: #99CCFF;
+    color: #ffffff;
     font-size: 36px; }
 
 .home-template .main-header {
-  padding-top: 150px;
+  padding-top: 250px;
   padding-bottom: 62px;
   background-repeat: no-repeat;
   background-position: center 30%;

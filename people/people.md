@@ -33,6 +33,11 @@ permalink: /people/
 ## Postdoctoral Fellow
 
 ## Graduate Student
+* [Yifan Yang](mailto:yifan.yang@inserm.fr)
+
+> Affiliated with *CRI* in **Avoidance and Repair of Biological Damage**
+>
+> Research interest : 
 
 ## Research Engineer
 * [Xiaohu Song](mailto:xiaohu.song@inserm.fr)

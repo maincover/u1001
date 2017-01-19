@@ -269,7 +269,6 @@ Friedberg, E.C., R. Wagner, and M. Radman, Specialized DNA polymerases, cellular
 
 Dionisio, F., et al., Plasmids spread very fast in heterogeneous bacterial communities. Genetics, 2002. 162(4): p. 1525-32.
 
-
 Denamur, E., et al., High frequency of mutator strains among human uropathogenic Escherichia coli isolates. J Bacteriol, 2002. 184(2): p. 605-9
 
 
@@ -282,8 +281,6 @@ Tenaillon, O., et al., Second-order selection in bacterial evolution: selection 
 Radman, M., Fidelity and infidelity. Nature, 2001. 413(6852): p. 115.
 
 Picard, B., et al., Mutator natural Escherichia coli isolates have an unusual virulence phenotype. Infect Immun, 2001. 69(1): p. 9-14.
-
-Matic, I., Sex and retrotransposons. Trends Microbiol, 2001. 9(3): p. 110.
 
 Giraud, A., et al., Costs and benefits of high mutation rates: adaptive evolution of bacteria in the mouse gut. Science, 2001. 291(5513): p. 2606-8.
 
@@ -302,8 +299,6 @@ Petranovic, M., et al., Mismatch repair in xenopus egg extracts is not strand-di
 Matic, I., F. Taddei, and M. Radman, Interspecies recombination and mismatch repair. Generation of mosaic genes and genomes. Methods Mol Biol, 2000. 152: p. 149-57.
 
 Matic, I., F. Taddei, and M. Radman, No genetic barriers between Salmonella enterica serovar typhimurium and Escherichia coli in SOS-induced mismatch repair-deficient cells. J Bacteriol, 2000. 182(20): p. 5922-4.
-
-Matic, I.I., Parallel evolution of pathogenic strains. Trends Microbiol, 2000. 8(10): p. 451.
 
 Dukan, S., et al., Protein oxidation in response to increased transcriptional or translational errors. Proc Natl Acad Sci U S A, 2000. 97(11): p. 5746-9..I., Parallel evolution of pathogenic strains. Trends Microbiol, 2000. 8(10): p. 451.
 

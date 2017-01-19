@@ -138,6 +138,9 @@ pre {
   background: #e67e22;
   text-shadow: none; }
 
+.bigFont li {
+  font-size: 18px; }
+
 /**
  * Syntax highlighting styles
  */

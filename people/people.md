@@ -8,58 +8,79 @@ permalink: /people/
 
 * [Ivan Matic](mailto:ivan.matic@inserm.fr)
 
-> Affiliated with *CNRS* in **Avoidance and Repair of Biological Damage**
+> **Avoidance and Repair of Biological Damage**
 >
-> Research interest : 
-
 
 ## Principal investigator
 
 * [François Taddei](mailto:francois.taddei@inserm.fr)
 
-> Affiliated with *INSERM* in **Systems Engineering and Evolution Dynamics**
+> **Systems Engineering and Evolution Dynamics**
 >
-> Research interest : 
 
 * [Ariel Lindner](mailto:ariel.lindner@inserm.fr)
 
-> Affiliated with *INSERM* in **Systems Engineering and Evolution Dynamics**
+> **Systems Engineering and Evolution Dynamics**
 >
-> Research interest : 
-
 
 ## Professor Emeritus
+* [Miroslav Radman](mailto:miroslav.radman@inserm.fr)
 
-## Postdoctoral Fellow
 
-## Graduate Student
+## Postdoctoral Fellow 
+> **Systems Engineering and Evolution Dynamics**
+>
+
+* [Jake Edwin Wintermute](mailto:edwin.wintermute@inserm.fr)
+* [Ana Luisa Santos](mailto:ana.santos@inserm.fr)
+* [Alvaro Banderas](mailto:alvarobanderas@gmail.com)
+* [Jason Bland](mailto:jason.bland@cri-paris.org)
 * [Yifan Yang](mailto:yifan.yang@inserm.fr)
 
-> Affiliated with *CRI* in **Avoidance and Repair of Biological Damage**
+
+## Graduate Student
+> **Systems Engineering and Evolution Dynamics**
 >
-> Research interest : 
+
+* [Nadine Bongaerts](mailto:nadine.bongaerts@gmail.com)
+* [Haotian Guo](mailto:haotian.guo@cri-paris.org)
+* [Guy Hedelberg](mailto:guyaidelberg@gmail.com)
+* [zoran Marinkovic](mailto:zoranmarin@gmail.com)
+
+
+## Graduate Student
+> **Avoidance and Repair of Biological Damage**
+>
+
+* [Wei Lin Su](mailto:suweilin@live.fr)
+* [Jeremy Surre](mailto:jeremy.surre@biomerieux.com)
+* [Sebastien Fleurier](mailto:sebastien.fleurier@inserm.fr)
+
+
+
+## Common staff
 
 ## Research Engineer
 * [Xiaohu Song](mailto:xiaohu.song@inserm.fr)
 
-> Affiliated with *INSERM* 
->
-> Research interest : 
 
 ## Study Engineer
 * [Chantal Lotton](mailto:chantal.lotton@inserm.fr)
+* [Marie-Florence Bredeche](mailto:marie-florence.bredeche@inserm.fr)
 
-> Affiliated with *Faculté de Médecine Paris Descartes*
->
-> Research interest : 
-
-## Assistant Engineer
 
 ## Technician
+* [Adeline Couve](mailto:adeline.couve@inserm.fr)
+
 
 ## Secretary
+* [beatrice.herbin](mailto:beatrice.herbin@inserm.fr)
+* [michele.taieb](mailto:michele.taieb@inserm.fr)
 
 ## Service agent
+* [Magia Djendoubi](mailto:magia.djendoubi@parisdescartes.fr)
+
+
 
 
 

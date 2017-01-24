@@ -44,7 +44,7 @@ permalink: /people/
 
 * [Nadine Bongaerts](mailto:nadine.bongaerts@gmail.com)
 * [Haotian Guo](mailto:haotian.guo@cri-paris.org)
-* [Guy Hedelberg](mailto:guyaidelberg@gmail.com)
+* [Guy Aidelberg](mailto:guyaidelberg@gmail.com)
 * [zoran Marinkovic](mailto:zoranmarin@gmail.com)
 
 
@@ -74,14 +74,8 @@ permalink: /people/
 
 
 ## Secretary
-* [beatrice.herbin](mailto:beatrice.herbin@inserm.fr)
-* [michele.taieb](mailto:michele.taieb@inserm.fr)
+* [Beatrice Herbin](mailto:beatrice.herbin@inserm.fr)
+* [Michele Taieb](mailto:michele.taieb@inserm.fr)
 
 ## Service agent
 * [Magia Djendoubi](mailto:magia.djendoubi@parisdescartes.fr)
-
-
-
-
-
-

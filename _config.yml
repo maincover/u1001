@@ -9,7 +9,7 @@
 title: Inserm u1001, Paris, France
 email: xiaohu.song@inserm.fr
 description: Robustness and evolvability of life
-baseurl: "/u1001/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://maincover.github.io" # the base hostname & protocol for your site
 repository: #https://github.com/eqxiu/eqxiu.github.io
 twitter_username: xsong

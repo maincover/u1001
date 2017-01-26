@@ -13,7 +13,7 @@
       text-decoration: none;
     }
     img {
-      max-width: 100%;
+      max-width: 120%;
       width: 200px;
       position: absolute;
       right: 0px;
@@ -21,15 +21,16 @@
     }
   }
   .slogan, .article-title {
-    color: #ffffff;
-    font-size: 36px;
+    color: #66ffff;
+    font-size: 50px;
+    font-style: oblique;
   }
 }
 .home-template .main-header {
-  padding-top: 250px;
+  padding-top: 450px;
   padding-bottom: 62px;
   background-repeat: no-repeat;
-  background-position: center 30%;
+  background-position: center 35%;
   -webkit-background-size: cover;
   background-size: cover;
 }

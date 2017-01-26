@@ -1,3 +1,3 @@
 # Jekyll site construction
 
-See the result at: http://eqxiu.github.io/
+see u1001.org

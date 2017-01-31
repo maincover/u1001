@@ -5,8 +5,8 @@
     <description>Robustness and evolvability of life</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jan 2017 11:21:01 +0100</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 11:21:01 +0100</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2017 11:36:40 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 11:36:40 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -55,9 +55,30 @@ Chinese New Year 2017 is on Saturday January 28.&lt;/p&gt;
     
       <item>
         <title>Calendar &amp; News</title>
-        <description>&lt;h1 id=&quot;lab-meeting-schedule&quot;&gt;LAB Meeting Schedule&lt;/h1&gt;
-&lt;h1 id=&quot;update--january-2-2017&quot;&gt;Update : January 2, 2017&lt;/h1&gt;
-&lt;h1 id=&quot;monday-10h-12h&quot;&gt;Monday 10h-12h&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;by-chantal&quot;&gt;by Chantal&lt;/h1&gt;
+&lt;h3 id=&quot;date--31-01-2017&quot;&gt;Date : 31-01-2017&lt;/h3&gt;
+&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;Just reminder, we have 2 lab-linkers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;for oligo: commande d’amorces&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;for gblocks and genes:  gBlocks, genes, produits NGS ,Ultramers, CRISPR , sondes qPCR (autres que FAM-zen-IBFQ), DsiRNA&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Be careful to use the good lablinker during the checkout. You can not mix gene and primer in the same order.&lt;/p&gt;
+
+&lt;p&gt;Thank you,&lt;/p&gt;
+
+&lt;p&gt;Chantal&lt;/p&gt;
+
+&lt;h1 id=&quot;lab-meeting-schedule-by-ivan&quot;&gt;LAB Meeting Schedule by Ivan&lt;/h1&gt;
+&lt;h3 id=&quot;update--02-01-2017&quot;&gt;Update : 02-01-2017&lt;/h3&gt;
+&lt;h3 id=&quot;monday-10h-12h&quot;&gt;Monday 10h-12h&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -126,14 +147,14 @@ Chinese New Year 2017 is on Saturday January 28.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&quot;from-chantal&quot;&gt;From Chantal&lt;/h1&gt;
-&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;h1 id=&quot;by-chantal-1&quot;&gt;by Chantal&lt;/h1&gt;
+&lt;s&gt;Hi all,
 
-&lt;p&gt;The “Préfecture de Police” will come for a security visit on the 26th of January afternoon  (14:00):   see email below.&lt;/p&gt;
+The &quot;Préfecture de Police&quot; will come for a security visit on the 26th of January afternoon  (14:00):   see email below.
 
-&lt;p&gt;No big experiment during this  time because of possible cut of power and fire exercise.&lt;/p&gt;
+No big experiment during this  time because of possible cut of power and fire exercise. 
 
-&lt;p&gt;Chantal&lt;/p&gt;
+Chantal&lt;/s&gt;
 
 </description>
         <pubDate>Mon, 02 Jan 2017 08:13:00 +0100</pubDate>

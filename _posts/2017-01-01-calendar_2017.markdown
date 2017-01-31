@@ -9,10 +9,25 @@ tags: calendar
 excerpt: Inserm u1001
 ---
 
+# by Chantal
+### Date : 31-01-2017
+Hi all,
 
-# LAB Meeting Schedule 
-# Update : January 2, 2017 
-# Monday 10h-12h
+Just reminder, we have 2 lab-linkers:
+
+* for oligo: commande d'amorces
+
+* for gblocks and genes:  gBlocks, genes, produits NGS ,Ultramers, CRISPR , sondes qPCR (autres que FAM-zen-IBFQ), DsiRNA 
+
+Be careful to use the good lablinker during the checkout. You can not mix gene and primer in the same order.
+
+Thank you,
+
+Chantal
+
+# LAB Meeting Schedule by Ivan
+### Update : 02-01-2017
+### Monday 10h-12h
 
 |Date|Name|
 |:------:|:---:|
@@ -31,12 +46,12 @@ excerpt: Inserm u1001
 |April 3, 2017|	Guo|
 |April 10, 2017|	Guy|
 
-# From Chantal
-Hi all,
+# by Chantal
+<s>Hi all,
 
 The "Préfecture de Police" will come for a security visit on the 26th of January afternoon  (14:00):   see email below.
 
 No big experiment during this  time because of possible cut of power and fire exercise. 
 
-Chantal
+Chantal</s>
 

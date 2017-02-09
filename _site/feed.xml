@@ -5,57 +5,84 @@
     <description>Robustness and evolvability of life</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2017 16:39:52 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 16:39:52 +0100</lastBuildDate>
+    <pubDate>Thu, 09 Feb 2017 10:44:04 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2017 10:44:04 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Chinese New Year</title>
-        <description>&lt;p&gt;Xiaohu brings some spring rolls. Have a taste around midday, the 31st January 2017!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/AHyIDjjPtow&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/ruster.png&quot; alt=&quot;Chinese New Year&quot; width=&quot;800&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;chinese-new-year-2017&quot;&gt;Chinese New Year 2017&lt;/h1&gt;
-
-&lt;p&gt;Chinese New Year, also known as Spring Festival in China, is China’s most important traditional festival. It is also the most important celebration for families, and a week of official public holiday.&lt;/p&gt;
-
-&lt;p&gt;The Date of Chinese New Year Is NOT January 1st…
-Chinese New Year 2017 is on Saturday January 28.&lt;/p&gt;
-
-&lt;p&gt;In 2017, China’s Spring Festival public holiday is from January 27 to February 2.&lt;/p&gt;
-
-&lt;h2 id=&quot;chinese-new-year-2017--a-rooster-year&quot;&gt;Chinese New Year 2017 — a Rooster Year&lt;/h2&gt;
-
-&lt;p&gt;2017 is a year of the Rooster according to the Chinese 12-year animal zodiac cycle. Other Rooster years include: …1921, 1933, 1945, 1957, 1969, 1981, 1993, 2005, 2017… If you were born then you’re a Rooster. Each Chinese zodiac year begins on Chinese New Year’s Day.&lt;/p&gt;
-
-&lt;p&gt;Rooster years are believed to be the most unlucky for people born in a year of the Rooster.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-do-people-celebrate-chinese-new-year&quot;&gt;Why Do People Celebrate Chinese New Year?&lt;/h2&gt;
-
-&lt;p&gt;Although there are many interesting legends and stories explaining the start of the Chinese New Year festival, the main two reasons for the festival are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To celebrate a year of hard work, have a good rest, and relax with family&lt;/li&gt;
-  &lt;li&gt;To wish for a lucky and prosperous coming year&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Chinese people believe that a good start to the year will lead to a lucky year. Chinese traditionally celebrated the start of a new year of farm work, and wished for a good harvest (when most were farmers). This has now evolved to celebrating the start of a new business year and wishing for profits and success in various vocations.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 31 Jan 2017 08:13:00 +0100</pubDate>
-        <link>http://localhost:4000//2017/01/31/chineseNewYear_2017/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/31/chineseNewYear_2017/</guid>
-        
-        <category>calendar</category>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
         <title>Calendar &amp; News</title>
-        <description>&lt;h1 id=&quot;by-chantal&quot;&gt;by Chantal&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;lab-meeting-schedule-by-ivan&quot;&gt;LAB Meeting Schedule by Ivan&lt;/h1&gt;
+&lt;h2 id=&quot;update--09-02-2017&quot;&gt;Update : 09-02-2017&lt;/h2&gt;
+&lt;h2 id=&quot;monday-10h-12h&quot;&gt;Monday 10h-12h&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Date&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;February 13, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;No lab meeting&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;February 20, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;No lab meeting&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;February 27, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jason&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;March 6, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Nadine&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;March 13, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sébastien&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;March 20, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Zoran&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;March 27, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Alvaro&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;April 3, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Guo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;April 10, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Guy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;April 24, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Wei-Lin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;May 15, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jake&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;May 22, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ana&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;May 29, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Xiaohu&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;June 12, 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yifan&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;by-chantal&quot;&gt;by Chantal&lt;/h1&gt;
 &lt;h2 id=&quot;date--31-01-2017&quot;&gt;Date : 31-01-2017&lt;/h2&gt;
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -76,9 +103,9 @@ Chinese New Year 2017 is on Saturday January 28.&lt;/p&gt;
 
 &lt;p&gt;Chantal&lt;/p&gt;
 
-&lt;h1 id=&quot;lab-meeting-schedule-by-ivan&quot;&gt;LAB Meeting Schedule by Ivan&lt;/h1&gt;
-&lt;h2 id=&quot;update--02-01-2017&quot;&gt;Update : 02-01-2017&lt;/h2&gt;
-&lt;h2 id=&quot;monday-10h-12h&quot;&gt;Monday 10h-12h&lt;/h2&gt;
+&lt;h1 id=&quot;-lab-meeting-schedule&quot;&gt;&lt;s&gt; LAB Meeting Schedule&lt;/s&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;update--01-01-2017&quot;&gt;&lt;s&gt;Update : 01-01-2017&lt;/s&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;monday-10h-12h-1&quot;&gt;&lt;s&gt;Monday 10h-12h&lt;/s&gt;&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -158,9 +185,53 @@ No big experiment during this  time because of possible cut of power and fire ex
 Chantal&lt;/s&gt;
 
 </description>
-        <pubDate>Mon, 02 Jan 2017 08:13:00 +0100</pubDate>
-        <link>http://localhost:4000//2017/01/02/calendar_2017/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/02/calendar_2017/</guid>
+        <pubDate>Thu, 09 Feb 2017 10:43:00 +0100</pubDate>
+        <link>http://localhost:4000//2017/02/09/calendar_2017/</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/02/09/calendar_2017/</guid>
+        
+        <category>calendar</category>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Chinese New Year</title>
+        <description>&lt;p&gt;Xiaohu brings some spring rolls. Have a taste around midday, the 31st January 2017!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/AHyIDjjPtow&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/ruster.png&quot; alt=&quot;Chinese New Year&quot; width=&quot;800&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;chinese-new-year-2017&quot;&gt;Chinese New Year 2017&lt;/h1&gt;
+
+&lt;p&gt;Chinese New Year, also known as Spring Festival in China, is China’s most important traditional festival. It is also the most important celebration for families, and a week of official public holiday.&lt;/p&gt;
+
+&lt;p&gt;The Date of Chinese New Year Is NOT January 1st…
+Chinese New Year 2017 is on Saturday January 28.&lt;/p&gt;
+
+&lt;p&gt;In 2017, China’s Spring Festival public holiday is from January 27 to February 2.&lt;/p&gt;
+
+&lt;h2 id=&quot;chinese-new-year-2017--a-rooster-year&quot;&gt;Chinese New Year 2017 — a Rooster Year&lt;/h2&gt;
+
+&lt;p&gt;2017 is a year of the Rooster according to the Chinese 12-year animal zodiac cycle. Other Rooster years include: …1921, 1933, 1945, 1957, 1969, 1981, 1993, 2005, 2017… If you were born then you’re a Rooster. Each Chinese zodiac year begins on Chinese New Year’s Day.&lt;/p&gt;
+
+&lt;p&gt;Rooster years are believed to be the most unlucky for people born in a year of the Rooster.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-do-people-celebrate-chinese-new-year&quot;&gt;Why Do People Celebrate Chinese New Year?&lt;/h2&gt;
+
+&lt;p&gt;Although there are many interesting legends and stories explaining the start of the Chinese New Year festival, the main two reasons for the festival are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To celebrate a year of hard work, have a good rest, and relax with family&lt;/li&gt;
+  &lt;li&gt;To wish for a lucky and prosperous coming year&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chinese people believe that a good start to the year will lead to a lucky year. Chinese traditionally celebrated the start of a new year of farm work, and wished for a good harvest (when most were farmers). This has now evolved to celebrating the start of a new business year and wishing for profits and success in various vocations.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Jan 2017 08:13:00 +0100</pubDate>
+        <link>http://localhost:4000//2017/01/31/chineseNewYear_2017/</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/01/31/chineseNewYear_2017/</guid>
         
         <category>calendar</category>
         

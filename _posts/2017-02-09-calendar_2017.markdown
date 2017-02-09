@@ -2,12 +2,34 @@
 layout:     post
 author: Ivan Matic
 title:      Calendar & News
-date:       2017-01-02 08:13:00 +0100
+date:       2017-02-09 10:43:00 +0100
 categories: notes
 tags: calendar
 [//]: # (mediaImage: images/calendar_icon.png)
 excerpt: Inserm u1001
 ---
+
+# LAB Meeting Schedule by Ivan
+## Update : 09-02-2017
+## Monday 10h-12h
+
+|Date|Name|
+|:------:|:---:|
+|February 13, 2017|	No lab meeting|
+|February 20, 2017|	No lab meeting|
+|February 27, 2017|	Jason |
+|March 6, 2017|	Nadine|
+|March 13, 2017|	Sébastien| 
+|March 20, 2017|	Zoran|
+|March 27, 2017|	Alvaro|
+|April 3, 2017|	Guo|
+|April 10, 2017|	Guy|
+|April 24, 2017|	Wei-Lin|
+|May 15, 2017|	Jake|
+|May 22, 2017|	Ana|
+|May 29, 2017|	Xiaohu|
+|June 12, 2017|	Yifan|
+
 
 # by Chantal
 ## Date : 31-01-2017
@@ -25,9 +47,11 @@ Thank you,
 
 Chantal
 
-# LAB Meeting Schedule by Ivan
-## Update : 02-01-2017
-## Monday 10h-12h
+
+
+# <s> LAB Meeting Schedule</s>
+## <s>Update : 01-01-2017</s>
+## <s>Monday 10h-12h</s>
 
 |Date|Name|
 |:------:|:---:|
@@ -45,6 +69,7 @@ Chantal
 |March 27, 2017|	Alvaro|
 |April 3, 2017|	Guo|
 |April 10, 2017|	Guy|
+
 
 # by Chantal
 ## Date : 05-12-2016

@@ -5,13 +5,18 @@
     <description>Robustness and evolvability of life</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Feb 2017 11:13:46 +0100</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2017 11:13:46 +0100</lastBuildDate>
+    <pubDate>Mon, 19 Jun 2017 15:00:13 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2017 15:00:13 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Calendar &amp; News</title>
-        <description>&lt;h1 id=&quot;lab-meeting-schedule-by-ivan&quot;&gt;LAB Meeting Schedule by Ivan&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;lab-event&quot;&gt;LAB Event&lt;/h1&gt;
+&lt;h2 id=&quot;update--19-06-2017&quot;&gt;Update : 19-06-2017&lt;/h2&gt;
+&lt;h2 id=&quot;lab-meeting-with-food&quot;&gt;Lab meeting with food&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/IMG_0923.jpg&quot; alt=&quot;Food and US&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;lab-meeting-schedule-by-ivan&quot;&gt;LAB Meeting Schedule by Ivan&lt;/h1&gt;
 &lt;h2 id=&quot;update--09-02-2017&quot;&gt;Update : 09-02-2017&lt;/h2&gt;
 &lt;h2 id=&quot;monday-10h-12h&quot;&gt;Monday 10h-12h&lt;/h2&gt;
 
@@ -82,7 +87,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&quot;mail-from-alvaro-banderas&quot;&gt;Mail from Alvaro Banderas&lt;/h1&gt;
+&lt;h1 id=&quot;by-alvaro-banderas&quot;&gt;by Alvaro Banderas&lt;/h1&gt;
 &lt;h2 id=&quot;update--08-02-2017&quot;&gt;Update : 08-02-2017&lt;/h2&gt;
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -199,9 +204,9 @@ No big experiment during this  time because of possible cut of power and fire ex
 Chantal&lt;/s&gt;
 
 </description>
-        <pubDate>Thu, 09 Feb 2017 10:43:00 +0100</pubDate>
-        <link>http://localhost:4000//2017/02/09/calendar_2017/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/02/09/calendar_2017/</guid>
+        <pubDate>Mon, 19 Jun 2017 11:43:00 +0200</pubDate>
+        <link>http://localhost:4000//2017/06/19/calendar_2017/</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/06/19/calendar_2017/</guid>
         
         <category>calendar</category>
         

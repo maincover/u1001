@@ -2,12 +2,17 @@
 layout:     post
 author: Xiaohu Song
 title:      Calendar & News
-date:       2017-02-09 10:43:00 +0100
+date:       2017-06-19 10:43:00 +0100
 categories: notes
 tags: calendar
 [//]: # (mediaImage: images/calendar_icon.png)
 excerpt: Inserm u1001
 ---
+
+# LAB Event
+## Update : 19-06-2017
+## Lab meeting with food
+![Food and US](/images/IMG_0923.jpg)
 
 # LAB Meeting Schedule by Ivan
 ## Update : 09-02-2017

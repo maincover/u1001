@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2017
+[DA17]: http://www.genetics.org/content/206/3/1349.long
+Dapa T, Fleurier S, Bredeche M, Matic I [The SOS and RpoS regulons contribute to bacterial cell robustness to genotoxic stress by synergistically regulating DNA-polymerase Pol II][DA17]. Genetics (2017), 206 :1349 – 1360 
+
+Elez M, Robert L,  Matic I Method for detecting and studying genome-wide mutations in single living cells in real-time. In « Series Methods in Molecular Biology: Antibiotic Resistance Protocols, Third Edition » (S.H. Gillespie, ed.), Springer (2017).
+
 ## 2016
 [AM16]: http://www.cell.com/cell-reports/pdf/S2211-1247(16)31205-0.pdf
 

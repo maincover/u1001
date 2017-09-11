@@ -6,9 +6,9 @@ permalink: /publications/
 
 ## 2017
 [DA17]: http://www.genetics.org/content/206/3/1349.long
-Dapa T, Fleurier S, Bredeche M, Matic I [The SOS and RpoS regulons contribute to bacterial cell robustness to genotoxic stress by synergistically regulating DNA-polymerase Pol II][DA17]. Genetics (2017), 206 :1349 – 1360 
+Dapa T, Fleurier S, Bredeche M, Matic I. [The SOS and RpoS regulons contribute to bacterial cell robustness to genotoxic stress by synergistically regulating DNA-polymerase Pol II][DA17]. Genetics (2017), 206 :1349 – 1360 
 
-Elez M, Robert L,  Matic I Method for detecting and studying genome-wide mutations in single living cells in real-time. In « Series Methods in Molecular Biology: Antibiotic Resistance Protocols, Third Edition » (S.H. Gillespie, ed.), Springer (2017).
+Elez M, Robert L,  Matic I. Method for detecting and studying genome-wide mutations in single living cells in real-time. In « Series Methods in Molecular Biology: Antibiotic Resistance Protocols, Third Edition » (S.H. Gillespie, ed.), Springer (2017).
 
 ## 2016
 [AM16]: http://www.cell.com/cell-reports/pdf/S2211-1247(16)31205-0.pdf
@@ -34,8 +34,6 @@ Radman, M._[Protein damage, radiation sensitivity and aging][MR161]_. DNA Repair
 [MR162]:http://www.sciencedirect.com/science/article/pii/S1568786415002542
 
 Radman, M._[Mismatch repair earns Nobel Prize in Chemistry 2015 to Paul Modrich for a biochemical tour de force][MR162]_. DNA Repair (2016) 37:A22-8
-
-Elez, M., Robert, L., and Matic, I. Method for detecting and studying genome-wide mutations in single living cells in real-time. In « Series Methods in Molecular Biology: Antibiotic Resistance Protocols, Third Edition » (S.H. Gillespie, ed.), Springer, (2016)  In Press
 
 Aude G. Bernheim, Vincent K. Libis, Ariel B. Lindner, Edwin H. Wintermute . Phage-mediated Delivery of Targeted sRNA Constructs to Knock Down Gene Expression in E. coli . J Vis Exp. (2016) ; (109): 53618. doi: 10.3791/53618
 

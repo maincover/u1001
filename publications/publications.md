@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ## 2017
+[Gi17]: http://www.pnas.org/content/114/43/11512.long
+Giroux, X., Su, W-L., Bredeche, M-F., and Matic, I. (2017). [Maladaptive DNA repair activity is the ultimate contributor to the death of trimethoprim-treated cells under aerobic and anaerobic conditions][Gi17]. PNAS USA, 114:11512-11517
+
 [DA17]: http://www.genetics.org/content/206/3/1349.long
 Dapa T, Fleurier S, Bredeche M, Matic I. [The SOS and RpoS regulons contribute to bacterial cell robustness to genotoxic stress by synergistically regulating DNA-polymerase Pol II][DA17]. Genetics (2017), 206 :1349 – 1360 
 
